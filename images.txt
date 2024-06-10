@@ -1,1 +1,1 @@
-python:3.10.0
+dyrnq/open-webui:latest
