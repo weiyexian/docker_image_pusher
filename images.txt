@@ -1,1 +1,1 @@
-cubejs/cube:latest
+apache/activemq-classic:5.16.7
