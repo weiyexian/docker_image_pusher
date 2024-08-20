@@ -1,1 +1,3 @@
-certbot/certbot
+certbot/certbot:latest
+nginx:latest
+langgenius/qdrant:v1.7.3
