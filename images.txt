@@ -1,1 +1,1 @@
-deepdiver/docker-oracle-xe-11g
+deepdiver/docker-oracle-xe-11g:latest
