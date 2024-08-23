@@ -1,1 +1,1 @@
-epiclabs/docker-oracle-xe-11g:latest
+arahman/docker-oracle-xe-11g:latest
